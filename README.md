@@ -1,0 +1,3 @@
+### a game where the user guesses the amount of files in the directory
+made on Fri Aug 13 22:09:54 PDT 2021
+Script guessinggame.sh contains 1241grep -c  guessinggame.sh lines
